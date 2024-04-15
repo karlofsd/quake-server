@@ -1,0 +1,3 @@
+[submodule "Quakefeeder"]
+	path = Quakefeeder
+	url = https://github.com/karlofsd/Quakefeeder.git
